@@ -4,19 +4,19 @@
 
 
 **★** My current Interests are:
-   **• Coding**
-   • Music
-   **• Philosofy**
-   • Most Art
-   **• Staying Healthy**
+-    **• Coding**
+-    • Music
+-    **• Philosofy**
+-    • Most Art
+-    **• Staying Healthy**
 
 
 
 **★** My best features include:
-  **• Initiative**
-    • Multiple areas of Interest
-  **• Unwavering Will**
-    • overwhelming Team Work
+-   **• Initiative**
+-     • Multiple areas of Interest
+-   **• Unwavering Will**
+-     • overwhelming Team Work
     
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

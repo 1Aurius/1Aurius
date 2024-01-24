@@ -14,9 +14,9 @@
 
 **★** My best features include:
 -   **• Initiative**
--     **•** Multiple areas of Interest
+-     • Multiple areas of Interest
 -   **• Unwavering Will**
--     **•** overwhelming Team Work
+-     • overwhelming Team Work
     
 - 📫 How to reach me ...
 - 😄 Pronouns: ...

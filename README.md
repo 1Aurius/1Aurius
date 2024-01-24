@@ -4,11 +4,11 @@
 
 
 **★** My current Interests are:
--    **• Coding**
--    • Music
--    **• Philosofy**
--    • Most Art
--    **• Staying Healthy**
+-    💻 **• Coding**
+-    🎵 • Music
+-    🧠 **• Philosofy**
+-    🎨 • Most Art
+-    🏋️ **• Staying Healthy**
 
 
 

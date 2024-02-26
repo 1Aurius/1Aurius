@@ -1,40 +1,12 @@
-# **★** Hello, my name is **Pedro Árias**
-### • AKA **Aurius** •
+<div align="center">
+ Heyo! Im Aurius
+</div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=1Aurius)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Aurius's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1Aurius&custom_title=This%20is%20a%20title&hide_border=true&radius=16&theme=react&area=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
-### **★** My current Interests are:
--    💻 **• Coding**
--    🎵 • Music
--    🧠 **• Philosofy**
--    🎨 • Most Art
--    🏋️ **• Staying Healthy**
-
-
-
-### **★** My best features include:
-- ## 🛆 Initiative
-   ### "I may not be the best but i aim to the be the first"
-   > Through out my life i have faced many **difficulties** and **hardships** ,these have tought me many things and one of them is a term that    i quite like in my native language "puxar a braza a tua sardinha"(pull the flame to your fish), wich shows how one should fend and fight       for himself in this competetive world.
-
-- ## 🛆 Multiple areas of Interest
-   ### "A jack of many trades is not the master of one, but known in all"
-   > Having multiple interesets opens many doors, this is so true that most long lasting relationships start by having a common interest or a     hobby. Besides, if one only focuses on one topic of life, he/she grows blind to the beauty of this universe and ourselves. 
-
-- ## 🛆 Unwavering Will
-   ### "The will of the man, grows as he does, it fuels him and makes him fuel others for their dreams"
-   > Having a strong will is very important, but a strong will without good values and understanding of others
-
-- • Multiple areas of Interest
--   + 
--   **• Unwavering Will**
-- • overwhelming Team Work
-    
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-1Aurius/1Aurius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![tests](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml/badge.svg)](https://github.com/timbrel/GitSavvy/actions/workflows/lint.yml)
+Image
